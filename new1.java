@@ -1,13 +1,5 @@
 import java.util.Scanner;
 import java.io.*;
-class New
-	{
-		void lose()throws IOException
-		{
-			throw new IOException("Warning");
-		}
-	}
-
 public class Exec {
 			static String st;
 		
